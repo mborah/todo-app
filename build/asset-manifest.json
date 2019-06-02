@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/mborah/gh-pages/static/js/main.421f41b3.chunk.js",
-    "main.js.map": "/mborah/gh-pages/static/js/main.421f41b3.chunk.js.map",
-    "runtime~main.js": "/mborah/gh-pages/static/js/runtime~main.9db27cf7.js",
-    "runtime~main.js.map": "/mborah/gh-pages/static/js/runtime~main.9db27cf7.js.map",
-    "static/js/2.3a4d9627.chunk.js": "/mborah/gh-pages/static/js/2.3a4d9627.chunk.js",
-    "static/js/2.3a4d9627.chunk.js.map": "/mborah/gh-pages/static/js/2.3a4d9627.chunk.js.map",
-    "index.html": "/mborah/gh-pages/index.html",
-    "precache-manifest.4b79ec644bd4afdf2a8f4ec92659566b.js": "/mborah/gh-pages/precache-manifest.4b79ec644bd4afdf2a8f4ec92659566b.js",
-    "service-worker.js": "/mborah/gh-pages/service-worker.js"
+    "main.js": "/todo-app/static/js/main.bc30f386.chunk.js",
+    "main.js.map": "/todo-app/static/js/main.bc30f386.chunk.js.map",
+    "runtime~main.js": "/todo-app/static/js/runtime~main.eca9ff85.js",
+    "runtime~main.js.map": "/todo-app/static/js/runtime~main.eca9ff85.js.map",
+    "static/js/2.3a4d9627.chunk.js": "/todo-app/static/js/2.3a4d9627.chunk.js",
+    "static/js/2.3a4d9627.chunk.js.map": "/todo-app/static/js/2.3a4d9627.chunk.js.map",
+    "index.html": "/todo-app/index.html",
+    "precache-manifest.e44bc8f502e8183a9292c12af3942283.js": "/todo-app/precache-manifest.e44bc8f502e8183a9292c12af3942283.js",
+    "service-worker.js": "/todo-app/service-worker.js"
   }
 }
